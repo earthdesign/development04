@@ -1,4 +1,4 @@
 def greeting(name):
     print("Hello,", name)
 
-greeting("World Gift test")
+greeting("World Gift test02")
